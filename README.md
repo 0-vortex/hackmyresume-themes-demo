@@ -9,7 +9,7 @@ This is a demo repository for the hackmyresume npm package. It's supposed to out
 **1. Clone the repository**
 
 ```
-git clone https://github.com:vrtxf/hackmyresume-themes-demo.git 
+git clone https://github.com/vrtxf/hackmyresume-themes-demo.git
 ```
 
 **2. Edit `data/fresca.json`**
