@@ -1,0 +1,555 @@
+name: 'TED Vortex'
+meta:
+  format: FRESH@0.6.0
+  version: 0.1.0
+info:
+  label: 'Senior Developer'
+  characterClass: Programmer
+  brief: "I'm a self taught fullstack developer with over 8 years of experience building robust customer solutions in the field of web development, mobile applications and digital marketing.\nI specialise in rapid application development with a focus on consistency versus completeness. I favour preventing errors from happening but also keen on solving them, no bottlenecks allowed !\nDedicating my free time to open source solutions I am currently studying true cross platform solutions using React and React Native."
+  image: 'https://vortex.one/images/AAEAAQAAAAAAAAKiAAAAJDMyOTdmYThiLTIzMWUtNDc2NS05YjA2LWY5NDRkNzlmZDVhNQ.jpg'
+  quote: 'Life is really simple, but we insist on making it complicated.'
+contact:
+  website: 'http://tedvortex.xyz'
+  phone: '+44 7477 132 686'
+  email: ted.vortex@gmail.com
+  other:
+    -
+      label: 'Home Phone'
+      flavor: phone
+      value: '+44 (747) 713 2686'
+    -
+      label: 'Personal Email'
+      flavor: email
+      value: ted.vortex@gmail.com
+location:
+  address: '5 Boston Mews, Valley Road'
+  city: Nottingham
+  region: Nottinghamshire
+  code: NG51HL
+  country: UK
+projects:
+  -
+    title: 'Github Issues Label Sync'
+    category: Open-source
+    role: Creator
+    url: 'https://github-issues-label-sync-package.superleap.xyz'
+    repo: 'https://github.com/superleap/github-issues-label-sync'
+    description: 'Small tool used to create identical GitHub issue labels from a given structured schema'
+    start: 2016-07
+    end: 2016-07
+    summary: 'Fully promisified implementation of the node-github api implementation featuring fully tested ES6 and ES7 features. Features continuous integration and analysis, automatic releases, fully documented on deployment.'
+    keywords:
+      - JavaScript
+      - Node.js
+      - GitHub
+      - 'Github labels'
+    media:
+      -
+        category: download
+        url: 'https://www.npmjs.com/package/github-issues-label-sync'
+  -
+    title: 'Material-UI google community icons'
+    category: Open-source
+    role: Contributor
+    repo: 'https://github.com/vrtxf/material-ui-community-icons'
+    description: 'Community Material Design Icons as material-ui SvgIcon components'
+    summary: 'Community Material Design Icons as material-ui SvgIcon components'
+    start: 2016-05
+    end: 2016-05
+    keywords:
+      - Material-UI
+      - 'Material design icons'
+    media:
+      -
+        category: download
+        url: 'https://www.npmjs.com/package/material-ui-community-icons'
+  -
+    title: 'ESDoc Hacker Vision'
+    category: Open-source
+    role: Creator
+    repo: 'https://github.com/superleap/esdoc-hacker-vision'
+    description: 'Hacker vision frontend plugin for ESDoc'
+    summary: 'Hacker vision frontend plugin for ESDoc'
+    start: 2016-07
+    end: 2016-07
+    keywords:
+      - Esdoc
+      - 'Esdoc plugin'
+      - 'Hacker vision'
+    media:
+      -
+        category: download
+        url: 'https://www.npmjs.com/package/material-ui-community-icons'
+  -
+    title: Blog
+    category: Personal
+    role: Creator
+    url: 'http://blog.tedvortex.xyz'
+    description: 'My programming blog. Powered by React Gatsby.'
+    start: 2016-09
+    summary: 'Web development tutorials, ES6, React, Web security'
+    keywords:
+      - React
+      - Gatsby
+      - ES6
+      - 'Web development'
+      - Tutorials
+      - Security
+social:
+  -
+    network: Github
+    label: github-circle
+    user: vrtxf
+    url: 'https://github.com/vrtxf'
+  -
+    network: Bitbucket
+    label: bitbucket
+    user: tedvortex
+    url: 'https://bitbucket.org/tedvortex'
+  -
+    network: Stackoverflow
+    label: stackoverflow
+    user: vortex
+    url: 'http://stackoverflow.com/users/757375/vortex'
+  -
+    network: Linkedin
+    label: linkedin
+    user: 'TED (Teodor Eugen Duțulescu) Vortex'
+    url: 'https://uk.linkedin.com/in/tedvortex'
+  -
+    network: AngeList
+    label: fingerprint
+    user: 'TED Vortex'
+    url: 'https://angel.co/ted-vortex'
+  -
+    network: Crunchbase
+    label: chart-bar
+    user: 'TED Vortex'
+    url: 'https://www.crunchbase.com/user/501304'
+  -
+    network: Twitter
+    label: twitter
+    user: 0_vortex
+    url: 'https://twitter.com/0_vortex'
+  -
+    network: Soundcloud
+    label: soundcloud
+    user: VORT☰X
+    url: 'https://soundcloud.com/vorteks'
+  -
+    network: Last.fm
+    label: lastfm
+    user: vrtxf
+    url: 'http://www.last.fm/user/vrtxf'
+employment:
+  summary: '8+ years software development and digital marketing experience.'
+  history:
+    -
+      employer: 'Connected World Services (part of the Carphone Warehouse Group)'
+      url: 'http://connectedworldservices.com/'
+      location: 'Loughborough, Leicestershire, UK'
+      position: 'Software Developer'
+      summary: "My main attributions at CWS were:\n- Following full agile scrum methodologies and work flow via the complete Atlassian tool stack\n- Collecting requirements from line managers and internal stakeholders\n- Estimating and planning with project managers with a clear understanding of business goals\n- Creating and extending user interfaces to fit the requirements of stakeholders\n- Authoring software solution proposals following internal standards set by senior professionals\n- Coordinating with customers and application/product engineers to gain sign-off\n- Development of bespoke web applications, micro-services and APIs\n- Deployment of web applications to live servers\n- Implementing custom standardized backend logic for web applications\n- Understanding and following a hybrid TDD/BDD mindset\n\nAside of my normal tasks I was occasionally assigned to:\n- Integrate and push to distributed systems\n- Assess and integrate 3rd party APIs\n- Manage user access control for git repositories and do code reviews\n- Create web application build plans with functional testing."
+      start: 2014-12
+      end: 2016-05
+      keywords:
+        - Agile
+        - Atlassian
+        - JIRA
+        - Bamboo
+        - PHP
+        - Node
+        - Gulp
+        - Sass
+        - TDD
+        - BDD
+        - MySQL
+        - MongoDB
+        - Vagrant
+        - CentOS
+        - Ansible
+        - API
+        - 'Web services'
+      highlights:
+        - 'Proposed gulp npm package, demonstrated it''s usefulness in a live application and passed company standard review'
+        - 'Authored a micro-service generator(prototype) based on existing technologies'
+        - 'Lead late development of E2Save.com (2015), working together with senior developers, designers, product managers and business owners'
+      stacks:
+        -
+          title: 'E2save stackshare'
+          description: 'Collection of tools used for building http://e2save.com under CWS'
+          url: 'http://stackshare.io/vrtxf/connected-world-services-2015'
+    -
+      employer: Self-employed
+      location: Romania
+      position: 'Web Developer'
+      summary: "With mobile devices rising above desktop usage I found myself unable to deliver native-like experiences with the synchronous technologies I was previously using.\nThis is the main reason I used most of my time consolidating my NodeJS skills and learning Puppet.\n\nWhy Puppet ?\nPuppet is built with a focus on client/server configuration within an infrastructure. However Puppet provides you with an extremely easy method for getting started and between Chef and an early version of Ansible I found Puppet to be the fastest way to power up my CentOS based vagrant environment into a secure production server.\n\nWhy NodeJS ?\n- Modularity: NodeJS provides a module-driven, highly scalable approach to application design, development and deployment that enables development teams to put the most desirable elements of agile methodology into practice.\n- JS backend: JavaScript on the server with Node further establishes it as the language of the web and its new uses on the server are helping to shape the future of the language itself.\n- Asynchronous Programming: JavaScript—and Node by extension—was designed for the web and the browser, where nothing is synchronous. Asynchronous JavaScript programs can perform many complex, parallel tasks in the browser. Node takes asynchronicity to the extreme on the server, making it the perfect choice for I/O-heavy and highly concurrent applications.\n- Module-driven Development: Node encourages developers to think in terms of creating small services that can be easily replaced or updated when necessary. By adopting a module-driven approach, Node developers can deconstruct the functionality of large monolithic applications and redesign them as a series of Node modules, bundled together to form a collection of services. This establishes an elegant simplicity in building scalable application functionality that improves both business and developer agility and leads to greater code-reuse.\n- Performance: Node represents an attractive compromise between performance concerns and platform approachability for developers. While there are other platforms able to match or exceed the performance of Node, none are as approachable for such a large portion of developers as Node via its reliance on JavaScript. Additionally, Node’s asynchronous programming model encourages performant development practices that are either difficult or risky in other languages and platforms."
+      start: 2013-10
+      end: 2014-11
+      keywords:
+        - Node
+        - Puppet
+        - CentOS
+        - Nginx
+        - CloudFlare
+        - SEO
+      highlights:
+        - 'I started using CloudFlare because of easy DNS management, static resource optimisation (in conformance with page speed rules), DDoS protection and bandwidth usage. It''s a highly customisable tool that I am still using to this date.'
+        - 'I started using the EX and PX line of dedicated servers from https://www.hetzner.de which I am still using today. I managed multiple production nodes via Puppet in this period of time and Hetzner is my #1 recommendation.'
+      stacks:
+        -
+          title: 'Freelance 2014 StackShare'
+          description: 'Most of the tools used while working freelance projects'
+          url: 'http://stackshare.io/vrtxf/freelance-2014'
+    -
+      employer: 'Computer Fun (expertvision.ro)'
+      url: 'http://expertvision.ro'
+      location: 'Bd. Unirii, nr. 2, Targoviste, Romania'
+      position: 'Lead Programmer'
+      summary: "My job as Lead Programmer included: \n- design and development of business critical web applications \n- management and development of a team of it professionals \n- project planning and estimates with business holders and customers\n- provisioning of support and solutions to team members in solving their work tasks\n- unit testing \n- performance and security auditing\n- collaboration with other departments and 3rd party service providers"
+      start: '2009-06-01'
+      end: '2013-10-01'
+      keywords:
+        - 'Html 5'
+        - 'CSS 3'
+        - Javascript
+        - JQuery
+        - MySQL
+        - MongoDB
+        - Transbase
+        - Apache
+        - PHP
+        - CentOS
+        - Ubuntu
+        - SEO
+        - CRM
+        - E-Commerce
+      highlights:
+        - 'Created and maintained an in-house PHP content management framework built on top of Zend 2 and Symfony 2 components and following SEO best practices and performance optimisation'
+        - 'The first commercial project I built and released on this framework was http://www.flax.ro - A versatile and secure LAMP framework that has proven its resilience over time and is still being used and maintained today by my former company'
+        - 'Managed to watch over planning, development and release over 200 websites with the above mentioned framework; With most of these projects being executed in a team, I''ve switched roles many times, leveraging from building both the backend and the frontend towards coaching my team and improving the experience of undocumented users'
+        - 'Created a complete Transbase to MySql database conversion of the TecDoc 2013 program'
+      stacks:
+        -
+          title: 'ExpertVision StackShare'
+          description: 'Most of the tools used while leading a small group of talented individuals'
+          url: 'http://stackshare.io/vrtxf/expertvision-2013'
+education:
+  summary: 'I found that Law was not the correct decision for me at the time and subsequently dropped out to teach myself web development.'
+  level: diploma
+  history:
+    -
+      title: ""
+      institution: 'Romanian - American University'
+      location: 'Bulevardul Expoziției 1B, București 012101, România'
+      url: 'http://www.rau.ro'
+      area: Law
+      studyType: Bachelor
+      start: '2008-09-30'
+      end: '2009-02-01'
+      grade: ""
+      courses: []
+    -
+      title: ""
+      institution: 'Ienăchiță Văcărescu National College'
+      location: 'Str. Calea Domneasca nr. 235, Târgoviște, Dâmbovița, România'
+      url: 'http://www.ienachita.com'
+      area: 'Mathematical Informatics'
+      studyType: 'High School'
+      start: '2004-09-17'
+      end: '2008-05-15'
+      grade: '9.02'
+      curriculum: []
+    -
+      title: ""
+      institution: 'Ioan Alexandru Brătescu-Voinești Grad school'
+      location: 'Str. Calea Domnească nr. 252, Târgoviște, Dâmbovița, România'
+      url: 'https://www.facebook.com/Ioan-Alexandru-Bratescu-Voinesti-215294571826834'
+      area: Mathematics
+      studyType: 'Primary School'
+      start: '1996-09-17'
+      end: '2004-06-15'
+      grade: '9.93'
+      curriculum: []
+affiliation:
+  summary: 'Member of numerous collegiate and professional groups and organizations.'
+  history:
+    -
+      role: Member
+      category: 'Developer network'
+      organization: 'Google Developer Network'
+      url: 'https://developer.apple.com/'
+      start: 2012-12
+      summary: 'Member of the [Google Developers Groups](https://developers.google.com/groups/) since 2012, integrated various Google Services as a developer.'
+      highlights:
+        - 'Maps, Charts, Calendar across a variety of web applications'
+        - 'Fonts and Gmail API for a select number of multi-platform applications'
+        - 'Analytics and Webmaster Tools integration and management for web applications'
+        - 'Page Speed average project completion 90/100 desktop/mobile'
+        - 'Android SDK for Cordova based projects'
+    -
+      role: Member
+      category: 'Developer network'
+      organization: 'Apple Developer Network'
+      url: 'https://developer.apple.com/'
+      start: 2013-12
+      summary: 'Member of the [Apple Developer program](https://developer.apple.com/) since 2013.'
+    -
+      role: Supporter
+      category: cause
+      organization: FFTF
+      url: 'https://www.fightforthefuture.org/'
+      start: 2009-10
+      summary: 'Supporter since 2009.'
+service:
+skills:
+  sets:
+    -
+      name: 'Web Application Development'
+      level: Engineer
+      skills:
+        - 'HTML 5'
+        - 'CSS 3'
+        - Javascript
+        - 'Ecmascript 6'
+        - jQuery
+        - D3
+        - React
+        - SASS
+        - LESS
+        - Gulp
+        - Grunt
+        - Babel
+        - Webpack
+        - Bootstrap
+        - 'Material UI'
+        - Node
+        - Npm
+        - Eslint
+        - Yeoman
+        - Php
+        - Phalcon
+        - Composer
+        - MySQL
+        - MariaDb
+        - MongoDb
+        - Redis
+        - RabbitMQ
+        - Solr
+        - 'Microsoft SQL Server'
+        - Git
+    -
+      name: 'Business Tools'
+      level: Mid-Level
+      skills:
+        - Agile
+        - Scrum
+        - Asana
+        - Jira
+        - Confluence
+        - HipChat
+        - Skype
+        - Slack
+        - 'Google Apps'
+    -
+      name: 'Mobile Development'
+      level: First-Level
+      skills:
+        - Cordova
+        - Ionic
+        - 'Android SDK'
+        - 'React Native'
+        - NativeBase
+    -
+      name: DevOps
+      level: First-Level
+      skills:
+        - Puppet
+        - Ansible
+        - Vagrant
+        - Otto
+        - Parallels
+        - Virtualbox
+        - Packer
+        - Atlas
+        - Docker
+        - 'Shell Scripting'
+        - CentOS
+        - Debian
+  list:
+    -
+      name: PHP
+      summary: 'Optional summary of your experience with the skill.'
+      level: 'Senior developer'
+      years: 7
+    -
+      name: Node.js
+      summary: 'Optional summary of your experience with the skill.'
+      level: 'Senior developer'
+      years: 5
+    -
+      name: Linux
+      summary: 'Optional summary of your experience with the skill.'
+      level: 'Mid-level user'
+      years: 4
+    -
+      name: Agile
+      summary: 'Optional summary of your experience with the skill.'
+      level: A-
+      years: 3
+    -
+      name: Puppet
+      summary: 'Optional summary of your experience with the skill.'
+      level: 'Junior developer'
+      years: 3
+samples:
+  -
+    title: 'Open source portfolio'
+    summary: 'I build NPM packages when I feel like something is missing in the world, most of my open source contributions and projects are listed over at github.com'
+    url: 'https://github.com/vrtxf'
+    date: 2011-01
+writing:
+  -
+    title: 'TED Vortex Personal Blog'
+    flavor: blog
+    date: '2016'
+    publisher:
+      name: self
+      url: 'https://blog.tedvortex.xyz'
+    url: 'https://blog.tedvortex.xyz'
+reading:
+  -
+    title: 'Google Developers Blog'
+    flavor: blog
+    url: 'https://developers.googleblog.com/'
+    summary: 'As the leading search engine I think it is a must to keep up to date with Google announcements and technology development.'
+  -
+    title: 'Mozilla Developer Network and Hacks Blog'
+    flavor: blog
+    url: 'https://developer.mozilla.org/'
+    summary: 'As the leading search engine I think it is a must to keep up to date with Google announcements and technology development.'
+  -
+    title: 'Offensive Security Blog, Exploit DB Archive'
+    flavor: blog
+    url: 'https://www.offensive-security.com/blog/'
+    summary: 'It''s good to know vulnerable software before you use it.'
+  -
+    title: 'Creative Commons Blog'
+    flavor: blog
+    url: 'https://creativecommons.org/blog/'
+    summary: 'It''s good to know vulnerable software before you use it.'
+  -
+    title: 'Open Science Framework'
+    flavor: website
+    url: 'https://osf.io/'
+    summary: 'I like to keep up to date with open source science development and do it yourself science breakthroughs.'
+  -
+    title: 'Hacker News'
+    flavor: website
+    url: 'https://news.ycombinator.com'
+    summary: 'Sometimes there is good content posted here.'
+  -
+    title: Nature
+    category: website
+    url: 'http://phys.org/'
+    summary: 'Here I''m interested mostly in technology and science articles.'
+  -
+    title: Nature
+    category: website
+    url: 'http://www.nature.com/'
+    summary: 'I like to keep up to date with development in biology, chemistry and science.'
+speaking: []
+recognition:
+  -
+    category: certification
+    title: 'The Digital Garage'
+    date: 2016-06
+    from: Google
+    summary: 'Free tutorials from Google on everything from your website to online marketing and beyond. Choose the topics you want to learn, or complete the whole online course for a certification from Google and IAB Europe.'
+    url: 'https://digitalgarage.withgoogle.com/'
+references:
+  -
+    name: 'Loukia Poutziouris'
+    flavor: professional
+    private: true
+    contact:
+      -
+        label: Mobile
+        flavor: phone
+        value: '+44 (115) 784 1333'
+      -
+        label: 'Personal email'
+        flavor: email
+        value: loukia.poutziouris@live.co.uk
+      -
+        label: 'Work email'
+        flavor: email
+        value: loukia@rebelrecruitment.co.uk
+testimonials: []
+languages:
+  -
+    language: Romanian
+    level: 10
+    years: 'native speaker'
+  -
+    language: English
+    level: 9
+    years: 3
+  -
+    language: French
+    level: 7
+    years: 'elementary proficiency'
+  -
+    language: Italian
+    level: 5
+    years: 'elementary proficiency'
+  -
+    language: German
+    level: 5
+    years: 'bilingual elementary'
+extracurricular: []
+governance:
+  -
+    summary: 'Since 2016 I''ve been a co-founder of Super Leap'
+    category: board
+    role: Co-founder
+    organization: 'Super Leap'
+    start: 2016-05
+    keywords: []
+    highlights: []
+interests:
+  -
+    name: reading
+    summary: 'I''m a science fiction fan. My father was a science fiction fan and the first books I read are obvious !'
+    keywords:
+      - 'Frank Herbert'
+      - 'Isaac Asimov'
+      - 'A. E. van Vogt'
+      - 'Arthur C. Clarke'
+      - 'Orson Scott Card'
+      - 'Dmitry Glukhovsky'
+      - 'Phillip K. Dick'
+      - 'Sanislaw Lem'
+      - 'Stephen King'
+  -
+    name: crypto-anarchy
+    summary: 'Protecting privacy and human rights.'
+    keywords:
+      - encryption
+      - astro-theology
+      - zodiac
+      - numerology
+  -
+    name: 'quantum mechanics'
+    summary: 'Having computers that are 10 times faster is something I''m looking forward to.'
+    keywords:
+      - 'quantum mechanics'
+      - 'quantum computing'
+  -
+    name: astrology
+    summary: 'I''m interested in everything that relates or translates into patterns. I also think everything is connected to the stars'
+    keywords:
+      - astrology
+      - astro-theology
+      - zodiac
+      - numerology

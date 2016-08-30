@@ -1,0 +1,305 @@
+{
+  "basics": {
+    "name": "TED Vortex",
+    "label": "Senior Developer",
+    "summary": "I'm a self taught fullstack developer with over 8 years of experience building robust customer solutions in the field of web development, mobile applications and digital marketing.\nI specialise in rapid application development with a focus on consistency versus completeness. I favour preventing errors from happening but also keen on solving them, no bottlenecks allowed !\nDedicating my free time to open source solutions I am currently studying true cross platform solutions using React and React Native.",
+    "website": "http://tedvortex.xyz",
+    "phone": "+44 7477 132 686",
+    "email": "ted.vortex@gmail.com",
+    "picture": "https://vortex.one/images/AAEAAQAAAAAAAAKiAAAAJDMyOTdmYThiLTIzMWUtNDc2NS05YjA2LWY5NDRkNzlmZDVhNQ.jpg",
+    "location": {
+      "address": "5 Boston Mews, Valley Road",
+      "postalCode": "NG51HL",
+      "city": "Nottingham",
+      "countryCode": "UK",
+      "region": "Nottinghamshire"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "vrtxf",
+        "url": "https://github.com/vrtxf"
+      },
+      {
+        "network": "Bitbucket",
+        "username": "tedvortex",
+        "url": "https://bitbucket.org/tedvortex"
+      },
+      {
+        "network": "Stackoverflow",
+        "username": "vortex",
+        "url": "http://stackoverflow.com/users/757375/vortex"
+      },
+      {
+        "network": "Linkedin",
+        "username": "TED (Teodor Eugen Duțulescu) Vortex",
+        "url": "https://uk.linkedin.com/in/tedvortex"
+      },
+      {
+        "network": "AngeList",
+        "username": "TED Vortex",
+        "url": "https://angel.co/ted-vortex"
+      },
+      {
+        "network": "Crunchbase",
+        "username": "TED Vortex",
+        "url": "https://www.crunchbase.com/user/501304"
+      },
+      {
+        "network": "Twitter",
+        "username": "0_vortex",
+        "url": "https://twitter.com/0_vortex"
+      },
+      {
+        "network": "Soundcloud",
+        "username": "VORT☰X",
+        "url": "https://soundcloud.com/vorteks"
+      },
+      {
+        "network": "Last.fm",
+        "username": "vrtxf",
+        "url": "http://www.last.fm/user/vrtxf"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Connected World Services (part of the Carphone Warehouse Group)",
+      "website": "http://connectedworldservices.com/",
+      "position": "Software Developer",
+      "startDate": "2014-12",
+      "endDate": "2016-05",
+      "summary": "My main attributions at CWS were:\n- Following full agile scrum methodologies and work flow via the complete Atlassian tool stack\n- Collecting requirements from line managers and internal stakeholders\n- Estimating and planning with project managers with a clear understanding of business goals\n- Creating and extending user interfaces to fit the requirements of stakeholders\n- Authoring software solution proposals following internal standards set by senior professionals\n- Coordinating with customers and application/product engineers to gain sign-off\n- Development of bespoke web applications, micro-services and APIs\n- Deployment of web applications to live servers\n- Implementing custom standardized backend logic for web applications\n- Understanding and following a hybrid TDD/BDD mindset\n\nAside of my normal tasks I was occasionally assigned to:\n- Integrate and push to distributed systems\n- Assess and integrate 3rd party APIs\n- Manage user access control for git repositories and do code reviews\n- Create web application build plans with functional testing.",
+      "highlights": [
+        "Proposed gulp npm package, demonstrated it's usefulness in a live application and passed company standard review",
+        "Authored a micro-service generator(prototype) based on existing technologies",
+        "Lead late development of E2Save.com (2015), working together with senior developers, designers, product managers and business owners"
+      ]
+    },
+    {
+      "company": "Self-employed",
+      "position": "Web Developer",
+      "startDate": "2013-10",
+      "endDate": "2014-11",
+      "summary": "With mobile devices rising above desktop usage I found myself unable to deliver native-like experiences with the synchronous technologies I was previously using.\nThis is the main reason I used most of my time consolidating my NodeJS skills and learning Puppet.\n\nWhy Puppet ?\nPuppet is built with a focus on client/server configuration within an infrastructure. However Puppet provides you with an extremely easy method for getting started and between Chef and an early version of Ansible I found Puppet to be the fastest way to power up my CentOS based vagrant environment into a secure production server.\n\nWhy NodeJS ?\n- Modularity: NodeJS provides a module-driven, highly scalable approach to application design, development and deployment that enables development teams to put the most desirable elements of agile methodology into practice.\n- JS backend: JavaScript on the server with Node further establishes it as the language of the web and its new uses on the server are helping to shape the future of the language itself.\n- Asynchronous Programming: JavaScript—and Node by extension—was designed for the web and the browser, where nothing is synchronous. Asynchronous JavaScript programs can perform many complex, parallel tasks in the browser. Node takes asynchronicity to the extreme on the server, making it the perfect choice for I/O-heavy and highly concurrent applications.\n- Module-driven Development: Node encourages developers to think in terms of creating small services that can be easily replaced or updated when necessary. By adopting a module-driven approach, Node developers can deconstruct the functionality of large monolithic applications and redesign them as a series of Node modules, bundled together to form a collection of services. This establishes an elegant simplicity in building scalable application functionality that improves both business and developer agility and leads to greater code-reuse.\n- Performance: Node represents an attractive compromise between performance concerns and platform approachability for developers. While there are other platforms able to match or exceed the performance of Node, none are as approachable for such a large portion of developers as Node via its reliance on JavaScript. Additionally, Node’s asynchronous programming model encourages performant development practices that are either difficult or risky in other languages and platforms.",
+      "highlights": [
+        "I started using CloudFlare because of easy DNS management, static resource optimisation (in conformance with page speed rules), DDoS protection and bandwidth usage. It's a highly customisable tool that I am still using to this date.",
+        "I started using the EX and PX line of dedicated servers from https://www.hetzner.de which I am still using today. I managed multiple production nodes via Puppet in this period of time and Hetzner is my #1 recommendation."
+      ]
+    },
+    {
+      "company": "Computer Fun (expertvision.ro)",
+      "website": "http://expertvision.ro",
+      "position": "Lead Programmer",
+      "startDate": "2009-06-01",
+      "endDate": "2013-10-01",
+      "summary": "My job as Lead Programmer included: \n- design and development of business critical web applications \n- management and development of a team of it professionals \n- project planning and estimates with business holders and customers\n- provisioning of support and solutions to team members in solving their work tasks\n- unit testing \n- performance and security auditing\n- collaboration with other departments and 3rd party service providers",
+      "highlights": [
+        "Created and maintained an in-house PHP content management framework built on top of Zend 2 and Symfony 2 components and following SEO best practices and performance optimisation",
+        "The first commercial project I built and released on this framework was http://www.flax.ro - A versatile and secure LAMP framework that has proven its resilience over time and is still being used and maintained today by my former company",
+        "Managed to watch over planning, development and release over 200 websites with the above mentioned framework; With most of these projects being executed in a team, I've switched roles many times, leveraging from building both the backend and the frontend towards coaching my team and improving the experience of undocumented users",
+        "Created a complete Transbase to MySql database conversion of the TecDoc 2013 program"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Romanian - American University",
+      "gpa": "",
+      "startDate": "2008-09-30",
+      "endDate": "2009-02-01",
+      "area": "Law",
+      "studyType": "Bachelor"
+    },
+    {
+      "institution": "Ienăchiță Văcărescu National College",
+      "gpa": "9.02",
+      "courses": [],
+      "startDate": "2004-09-17",
+      "endDate": "2008-05-15",
+      "area": "Mathematical Informatics",
+      "studyType": "High School"
+    },
+    {
+      "institution": "Ioan Alexandru Brătescu-Voinești Grad school",
+      "gpa": "9.93",
+      "courses": [],
+      "startDate": "1996-09-17",
+      "endDate": "2004-06-15",
+      "area": "Mathematics",
+      "studyType": "Primary School"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Application Development",
+      "level": "Engineer",
+      "keywords": [
+        "HTML 5",
+        "CSS 3",
+        "Javascript",
+        "Ecmascript 6",
+        "jQuery",
+        "D3",
+        "React",
+        "SASS",
+        "LESS",
+        "Gulp",
+        "Grunt",
+        "Babel",
+        "Webpack",
+        "Bootstrap",
+        "Material UI",
+        "Node",
+        "Npm",
+        "Eslint",
+        "Yeoman",
+        "Php",
+        "Phalcon",
+        "Composer",
+        "MySQL",
+        "MariaDb",
+        "MongoDb",
+        "Redis",
+        "RabbitMQ",
+        "Solr",
+        "Microsoft SQL Server",
+        "Git"
+      ]
+    },
+    {
+      "name": "Business Tools",
+      "level": "Mid-Level",
+      "keywords": [
+        "Agile",
+        "Scrum",
+        "Asana",
+        "Jira",
+        "Confluence",
+        "HipChat",
+        "Skype",
+        "Slack",
+        "Google Apps"
+      ]
+    },
+    {
+      "name": "Mobile Development",
+      "level": "First-Level",
+      "keywords": [
+        "Cordova",
+        "Ionic",
+        "Android SDK",
+        "React Native",
+        "NativeBase"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "level": "First-Level",
+      "keywords": [
+        "Puppet",
+        "Ansible",
+        "Vagrant",
+        "Otto",
+        "Parallels",
+        "Virtualbox",
+        "Packer",
+        "Atlas",
+        "Docker",
+        "Shell Scripting",
+        "CentOS",
+        "Debian"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "url": "https://digitalgarage.withgoogle.com/",
+      "title": "The Digital Garage",
+      "date": "2016-06",
+      "awarder": "Google",
+      "summary": "Free tutorials from Google on everything from your website to online marketing and beyond. Choose the topics you want to learn, or complete the whole online course for a certification from Google and IAB Europe."
+    }
+  ],
+  "publications": [
+    {
+      "name": "TED Vortex Personal Blog",
+      "publisher": "self",
+      "releaseDate": "2016",
+      "website": "https://blog.tedvortex.xyz"
+    }
+  ],
+  "interests": [
+    {
+      "name": "reading",
+      "summary": "I'm a science fiction fan. My father was a science fiction fan and the first books I read are obvious !",
+      "keywords": [
+        "Frank Herbert",
+        "Isaac Asimov",
+        "A. E. van Vogt",
+        "Arthur C. Clarke",
+        "Orson Scott Card",
+        "Dmitry Glukhovsky",
+        "Phillip K. Dick",
+        "Sanislaw Lem",
+        "Stephen King"
+      ]
+    },
+    {
+      "name": "crypto-anarchy",
+      "summary": "Protecting privacy and human rights.",
+      "keywords": [
+        "encryption",
+        "astro-theology",
+        "zodiac",
+        "numerology"
+      ]
+    },
+    {
+      "name": "quantum mechanics",
+      "summary": "Having computers that are 10 times faster is something I'm looking forward to.",
+      "keywords": [
+        "quantum mechanics",
+        "quantum computing"
+      ]
+    },
+    {
+      "name": "astrology",
+      "summary": "I'm interested in everything that relates or translates into patterns. I also think everything is connected to the stars",
+      "keywords": [
+        "astrology",
+        "astro-theology",
+        "zodiac",
+        "numerology"
+      ]
+    }
+  ],
+  "references": 0,
+  "languages": [
+    {
+      "language": "Romanian",
+      "level": 10,
+      "years": "native speaker"
+    },
+    {
+      "language": "English",
+      "level": 9,
+      "years": 3
+    },
+    {
+      "language": "French",
+      "level": 7,
+      "years": "elementary proficiency"
+    },
+    {
+      "language": "Italian",
+      "level": 5,
+      "years": "elementary proficiency"
+    },
+    {
+      "language": "German",
+      "level": 5,
+      "years": "bilingual elementary"
+    }
+  ]
+}
