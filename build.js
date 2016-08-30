@@ -93,7 +93,7 @@ for (let format of formats) {
         `build`,
         `data/fresca.json`,
         `to`,
-        `dist/${format.renderName}/resume-${format.renderName}.all`,
+        `dist/${format.renderName}/index.all`,
         {
             "t": `${format.pkg}`
         }

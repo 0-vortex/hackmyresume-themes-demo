@@ -4,7 +4,9 @@
   "description": "A simple demo of the hackmyresume NPM plugin with some featured themes - internal and other npm theme packages",
   "main": "build.js",
   "scripts": {
-    "test": ""
+    "test": "",
+    "build": "node build.js",
+    "deploy": "node deploy.js"
   },
   "repository": {
     "type": "git",
@@ -30,6 +32,7 @@
     "execcli": "^4.0.8",
     "fluentcv": "^1.8.1",
     "fresh-theme-bootstrap": "^0.2.1",
+    "gh-pages": "^0.11.0",
     "mkdirp": "^0.5.1"
   }
 }
