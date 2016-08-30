@@ -1,8 +1,8 @@
 {
   "name": "hackmyresume-themes-demo",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
+  "version": "0.1.0",
+  "description": "A simple demo of the hackmyresume NPM plugin with some featured themes - internal and other npm theme packages",
+  "main": "build.js",
   "scripts": {
     "test": ""
   },
@@ -12,7 +12,7 @@
   },
   "engines": {
     "node": ">=4",
-    "npm": ">=3"
+    "npm": ">=2"
   },
   "keywords": [
     "react",

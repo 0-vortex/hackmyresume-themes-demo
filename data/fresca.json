@@ -65,6 +65,7 @@
       "role": "Contributor",
       "repo": "https://github.com/vrtxf/material-ui-community-icons",
       "description": "Community Material Design Icons as material-ui SvgIcon components",
+      "summary": "Community Material Design Icons as material-ui SvgIcon components",
       "start": "2016-05",
       "end": "2016-05",
       "keywords": [
@@ -84,6 +85,7 @@
       "role": "Creator",
       "repo": "https://github.com/superleap/esdoc-hacker-vision",
       "description": "Hacker vision frontend plugin for ESDoc",
+      "summary": "Hacker vision frontend plugin for ESDoc",
       "start": "2016-07",
       "end": "2016-07",
       "keywords": [
@@ -355,7 +357,8 @@
         "category": "cause",
         "organization": "FFTF",
         "url": "https://www.fightforthefuture.org/",
-        "start": "2009-10"
+        "start": "2009-10",
+        "summary": "Supporter since 2009."
       }
     ]
   },
@@ -538,17 +541,13 @@
       "title": "Nature",
       "category": "website",
       "url": "http://phys.org/",
-      "summary": "Here I'm interested mostly in technology and science articles.",
-      "author": "",
-      "date": ""
+      "summary": "Here I'm interested mostly in technology and science articles."
     },
     {
       "title": "Nature",
       "category": "website",
       "url": "http://www.nature.com/",
-      "summary": "I like to keep up to date with development in biology, chemistry and science.",
-      "author": "",
-      "date": ""
+      "summary": "I like to keep up to date with development in biology, chemistry and science."
     }
   ],
   "speaking": [],
@@ -558,7 +557,7 @@
       "title": "The Digital Garage",
       "date": "2016-06",
       "from": "Google",
-      "summary": "graduation",
+      "summary": "Free tutorials from Google on everything from your website to online marketing and beyond. Choose the topics you want to learn, or complete the whole online course for a certification from Google and IAB Europe.",
       "url": "https://digitalgarage.withgoogle.com/"
     }
   ],
