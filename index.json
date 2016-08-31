@@ -4,7 +4,7 @@
     "label": "Senior Developer",
     "summary": "I'm a self taught fullstack developer with over 8 years of experience building robust customer solutions in the field of web development, mobile applications and digital marketing.\nI specialise in rapid application development with a focus on consistency versus completeness. I favour preventing errors from happening but also keen on solving them, no bottlenecks allowed !\nDedicating my free time to open source solutions I am currently studying true cross platform solutions using React and React Native.",
     "website": "http://tedvortex.xyz",
-    "phone": "+44 7477 132 686",
+    "phone": "+44 (747) 713 2686",
     "email": "ted.vortex@gmail.com",
     "picture": "https://vortex.one/images/AAEAAQAAAAAAAAKiAAAAJDMyOTdmYThiLTIzMWUtNDc2NS05YjA2LWY5NDRkNzlmZDVhNQ.jpg",
     "location": {
@@ -88,7 +88,7 @@
       ]
     },
     {
-      "company": "Computer Fun (expertvision.ro)",
+      "company": "Computer Fun",
       "website": "http://expertvision.ro",
       "position": "Lead Programmer",
       "startDate": "2009-06-01",
@@ -249,10 +249,7 @@
       "name": "crypto-anarchy",
       "summary": "Protecting privacy and human rights.",
       "keywords": [
-        "encryption",
-        "astro-theology",
-        "zodiac",
-        "numerology"
+        "encryption"
       ]
     },
     {

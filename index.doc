@@ -508,7 +508,7 @@
           <w:rPr>
             <w:sz w:val="16"/>
           </w:rPr>
-          <w:t>+44 7477 132 686</w:t>
+          <w:t>+44 (747) 713 2686</w:t>
         </w:r>
         <w:r>
           <w:rPr>
@@ -906,7 +906,7 @@ Puppet is built with a focus on client/server configuration within an infrastruc
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Computer Fun (expertvision.ro)</w:t>
+          <w:t>Computer Fun</w:t>
         </w:r>
       </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
@@ -1047,7 +1047,7 @@ Puppet is built with a focus on client/server configuration within an infrastruc
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2016-07 — 2016-07</w:t>
+        <w:t>2016-07 — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1074,11 +1074,14 @@ Puppet is built with a focus on client/server configuration within an infrastruc
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
         <w:t>Contributor, </w:t>
       </w:r>
-      
+      <w:hlink w:dest="https://www.npmjs.com/package/material-ui-community-icons">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
           <w:t>Material-UI google community icons</w:t>
         </w:r>
-      
+      </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
         <w:tab/>
       </w:r>
@@ -1086,7 +1089,7 @@ Puppet is built with a focus on client/server configuration within an infrastruc
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2016-05 — 2016-05</w:t>
+        <w:t>2016-05 — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1113,11 +1116,14 @@ Puppet is built with a focus on client/server configuration within an infrastruc
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
         <w:t>Creator, </w:t>
       </w:r>
-      
+      <w:hlink w:dest="https://www.npmjs.com/package/material-ui-community-icons">
         <w:r wsp:rsidR="009452CA" wsp:rsidRPr="00606071">
+          <w:rPr>
+            <w:rStyle w:val="Hyperlink"/>
+          </w:rPr>
           <w:t>ESDoc Hacker Vision</w:t>
         </w:r>
-      
+      </w:hlink>
       <w:r wsp:rsidR="00EA0B64">
         <w:tab/>
       </w:r>
@@ -1125,7 +1131,7 @@ Puppet is built with a focus on client/server configuration within an infrastruc
         <w:rPr>
           <w:rStyle w:val="FromTo"/>
         </w:rPr>
-        <w:t>2016-07 — 2016-07</w:t>
+        <w:t>2016-07 — Present</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="000A3AF0" wsp:rsidRDefault="00C146CA" wsp:rsidP="00C146CA">
@@ -1939,7 +1945,7 @@ Puppet is built with a focus on client/server configuration within an infrastruc
           <w:rPr>
             <w:rStyle w:val="Hyperlink"/>
           </w:rPr>
-          <w:t>Nature</w:t>
+          <w:t>Science X Physics</w:t>
         </w:r>
       </w:hlink>
       <!-- <w:r wsp:rsidR="00EA0B64">
@@ -2183,7 +2189,7 @@ Puppet is built with a focus on client/server configuration within an infrastruc
         <w:tab/>
       </w:r>
       <w:r wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA">
-        <w:t>encryption, astro-theology, zodiac, numerology</w:t>
+        <w:t>encryption</w:t>
       </w:r>
     </w:p>
     <w:p wsp:rsidR="00C146CA" wsp:rsidRPr="00C146CA" wsp:rsidRDefault="00606071" wsp:rsidP="00E578D4">

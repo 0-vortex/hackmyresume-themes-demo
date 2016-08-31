@@ -1,7 +1,7 @@
 TED Vortex
 ============
 Email: ted.vortex@gmail.com
-Tel: +44 7477 132 686
+Tel: +44 (747) 713 2686
 Web: http://tedvortex.xyz
 
 I'm a self taught fullstack developer with over 8 years of experience building robust customer solutions in the field of web development, mobile applications and digital marketing.
@@ -57,7 +57,7 @@ Why NodeJS ?
   - I started using CloudFlare because of easy DNS management, static resource optimisation (in conformance with page speed rules), DDoS protection and bandwidth usage. It's a highly customisable tool that I am still using to this date.
   - I started using the EX and PX line of dedicated servers from https://www.hetzner.de which I am still using today. I managed multiple production nodes via Puppet in this period of time and Hetzner is my #1 recommendation.
 
-### *Lead Programmer*, [Computer Fun (expertvision.ro)](http://expertvision.ro) (2009-06 — 2013-10)
+### *Lead Programmer*, [Computer Fun](http://expertvision.ro) (2009-06 — 2013-10)
 
 My job as Lead Programmer included: 
 - design and development of business critical web applications 
@@ -75,17 +75,17 @@ My job as Lead Programmer included:
 
 ## PROJECTS
 
-### *Creator*, [Github Issues Label Sync](https://github-issues-label-sync-package.superleap.xyz) (2016-07 — 2016-07)
+### *Creator*, [Github Issues Label Sync](https://github-issues-label-sync-package.superleap.xyz) (2016-07 — Present)
 
 Small tool used to create identical GitHub issue labels from a given structured schema
 Fully promisified implementation of the node-github api implementation featuring fully tested ES6 and ES7 features. Features continuous integration and analysis, automatic releases, fully documented on deployment.
 
-### *Contributor*, Material-UI google community icons (2016-05 — 2016-05)
+### *Contributor*, [Material-UI google community icons](https://www.npmjs.com/package/material-ui-community-icons) (2016-05 — Present)
 
 Community Material Design Icons as material-ui SvgIcon components
 Community Material Design Icons as material-ui SvgIcon components
 
-### *Creator*, ESDoc Hacker Vision (2016-07 — 2016-07)
+### *Creator*, [ESDoc Hacker Vision](https://www.npmjs.com/package/material-ui-community-icons) (2016-07 — Present)
 
 Hacker vision frontend plugin for ESDoc
 Hacker vision frontend plugin for ESDoc
@@ -172,7 +172,7 @@ I like to keep up to date with open source science development and do it yoursel
 ### [*Hacker News*](https://news.ycombinator.com)
 Sometimes there is good content posted here.
 
-### [*Nature*](http://phys.org/)
+### [*Science X Physics*](http://phys.org/)
 Here I'm interested mostly in technology and science articles.
 
 ### [*Nature*](http://www.nature.com/)
@@ -200,7 +200,7 @@ Work email: loukia@rebelrecruitment.co.uk
 - READING: Frank Herbert Isaac Asimov A. E. van Vogt Arthur C. Clarke Orson Scott Card Dmitry Glukhovsky Phillip K. Dick Sanislaw Lem Stephen King 
 I'm a science fiction fan. My father was a science fiction fan and the first books I read are obvious !
 
-- CRYPTO-ANARCHY: encryption astro-theology zodiac numerology 
+- CRYPTO-ANARCHY: encryption 
 Protecting privacy and human rights.
 
 - QUANTUM MECHANICS: quantum mechanics quantum computing 
