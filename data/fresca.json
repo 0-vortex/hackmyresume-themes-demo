@@ -13,7 +13,7 @@
   },
   "contact": {
     "website": "http://tedvortex.xyz",
-    "phone": "+44 7477 132 686",
+    "phone": "+44 (747) 713 2686",
     "email": "ted.vortex@gmail.com",
     "other": [
       {
@@ -44,7 +44,6 @@
       "repo": "https://github.com/superleap/github-issues-label-sync",
       "description": "Small tool used to create identical GitHub issue labels from a given structured schema",
       "start": "2016-07",
-      "end": "2016-07",
       "summary": "Fully promisified implementation of the node-github api implementation featuring fully tested ES6 and ES7 features. Features continuous integration and analysis, automatic releases, fully documented on deployment.",
       "keywords": [
         "JavaScript",
@@ -63,11 +62,11 @@
       "title": "Material-UI google community icons",
       "category": "Open-source",
       "role": "Contributor",
+      "url": "https://www.npmjs.com/package/material-ui-community-icons",
       "repo": "https://github.com/vrtxf/material-ui-community-icons",
       "description": "Community Material Design Icons as material-ui SvgIcon components",
       "summary": "Community Material Design Icons as material-ui SvgIcon components",
       "start": "2016-05",
-      "end": "2016-05",
       "keywords": [
         "Material-UI",
         "Material design icons"
@@ -83,11 +82,11 @@
       "title": "ESDoc Hacker Vision",
       "category": "Open-source",
       "role": "Creator",
+      "url": "https://www.npmjs.com/package/material-ui-community-icons",
       "repo": "https://github.com/superleap/esdoc-hacker-vision",
       "description": "Hacker vision frontend plugin for ESDoc",
       "summary": "Hacker vision frontend plugin for ESDoc",
       "start": "2016-07",
-      "end": "2016-07",
       "keywords": [
         "Esdoc",
         "Esdoc plugin",
@@ -105,6 +104,7 @@
       "category": "Personal",
       "role": "Creator",
       "url": "http://blog.tedvortex.xyz",
+      "repo": "https://github.com/vrtxf/tedvortex.xyz",
       "description": "My programming blog. Powered by React Gatsby.",
       "start": "2016-09",
       "summary": "Web development tutorials, ES6, React, Web security",
@@ -245,7 +245,7 @@
         ]
       },
       {
-        "employer": "Computer Fun (expertvision.ro)",
+        "employer": "Computer Fun",
         "url": "http://expertvision.ro",
         "location": "Bd. Unirii, nr. 2, Targoviste, Romania",
         "position": "Lead Programmer",
@@ -538,7 +538,7 @@
       "summary": "Sometimes there is good content posted here."
     },
     {
-      "title": "Nature",
+      "title": "Science X Physics",
       "category": "website",
       "url": "http://phys.org/",
       "summary": "Here I'm interested mostly in technology and science articles."
@@ -645,10 +645,7 @@
       "name": "crypto-anarchy",
       "summary": "Protecting privacy and human rights.",
       "keywords": [
-        "encryption",
-        "astro-theology",
-        "zodiac",
-        "numerology"
+        "encryption"
       ]
     },
     {
